@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/13/trunk/WebOS%20Clock%20Theme%20Builder/src/ca/canucksoftware/clockthemebuilder/resources
+END
+theme.js
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3/trunk/WebOS%20Clock%20Theme%20Builder/src/ca/canucksoftware/clockthemebuilder/resources/theme.js
+END
+clock.png
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3/trunk/WebOS%20Clock%20Theme%20Builder/src/ca/canucksoftware/clockthemebuilder/resources/clock.png
+END
+clock2.png
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3/trunk/WebOS%20Clock%20Theme%20Builder/src/ca/canucksoftware/clockthemebuilder/resources/clock2.png
+END
+postinst
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/13/trunk/WebOS%20Clock%20Theme%20Builder/src/ca/canucksoftware/clockthemebuilder/resources/postinst
+END
+ThemeBuilderApp.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/3/trunk/WebOS%20Clock%20Theme%20Builder/src/ca/canucksoftware/clockthemebuilder/resources/ThemeBuilderApp.properties
+END
+prerm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/13/trunk/WebOS%20Clock%20Theme%20Builder/src/ca/canucksoftware/clockthemebuilder/resources/prerm
+END
