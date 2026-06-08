@@ -247,7 +247,7 @@ Size: 2010
 Filename: palm-analogblack_1.0.0_all.ipk
 Description: Analog Black
 Maintainer: Palm Inc.
-Source: {"Category":"Clock","LastUpdated":"1306901285","Type":"Theme","Screenshots":["http://img571.imageshack.us/img571/7646/clock20111602040444.png"],"FullDescription":"This will enable the built-in unused Analog Black theme.<br><br>NOTE: When switching to this theme, the second hand may freeze. Just close the Clock app and relaunch it and it'll be working again.","MaxWebOSVersion":"1.9.9","Icon":"http://www.webos-internals.org/images/8/8d/Icon_WebOSInternals_Patches_Clock.png","Title":"Analog Black","MaxWebOSVersion":"2.9.9"}
+Source: {"Category":"Clock","LastUpdated":"1306901285","Type":"Theme","Screenshots":["http://img571.imageshack.us/img571/7646/clock20111602040444.png"],"FullDescription":"This will enable the built-in unused Analog Black theme.<br><br>NOTE: When switching to this theme, the second hand may freeze. Just close the Clock app and relaunch it and it'll be working again.","MaxWebOSVersion":"2.9.9","Icon":"http://www.webos-internals.org/images/8/8d/Icon_WebOSInternals_Patches_Clock.png","Title":"Analog Black"}
 
 
 Package: ca.canucksoftware.clock.hpisthesun
